@@ -2,6 +2,8 @@ Tarea en Grupo Sala 2 Analisis de Algoritmos
 
 Esteban Jose Adrian Castillo Molina 202300862
 Oskar Kein Camooseco Diaz 202301708
+Rechel Marlene Solorzano Lemus 20230400
+Eliezer David Chang Salazar 202303947
 
 Objetivos:
 Implementar el algoritmo de bubbleSort 
