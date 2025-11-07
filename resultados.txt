@@ -1,0 +1,4 @@
+n=100 -> BubbleSort=0.000326s | sorted()=0.000009s
+n=500 -> BubbleSort=0.008012s | sorted()=0.000043s
+n=1000 -> BubbleSort=0.037262s | sorted()=0.000096s
+n=5000 -> BubbleSort=1.451913s | sorted()=0.000843s
